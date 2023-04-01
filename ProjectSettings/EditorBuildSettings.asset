@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/title_scene/title.unity
+    guid: 93c5fdb7d5518ca4e928a02e3aef18c7
+  - enabled: 1
+    path: Assets/scene/title_scene/jjap_title.unity
+    guid: a215b9be98926dc449812ef839366e47
+  - enabled: 1
+    path: Assets/scene/title_scene/main_folder/main_proto_scene.unity
+    guid: cf79f86c850e4474bbfb143ef1bcc23e
+  - enabled: 1
+    path: Assets/scene/title_scene/setting_goto.unity
+    guid: 519cbac75b1d2f044bda69987edfdbe1
+  - enabled: 1
+    path: Assets/scene/mini_game/si won.unity
+    guid: 1615a5953b145bf439c97be8ef96e592
+  - enabled: 1
+    path: Assets/scene/mini_game/si yeon.unity
+    guid: 9e0608adbb61d0548ac4a24b47ec9b79
+  - enabled: 1
+    path: Assets/scene/mini_game/larva_scene.unity
+    guid: b61a26994b2e78a40ba47e3dbce0c200
+  - enabled: 1
+    path: Assets/scene/mini_game/moja_scene.unity
+    guid: f3d1c007cc36f604a8e576b85661f1f7
+  - enabled: 1
+    path: Assets/scene/mini_game/HQueen/HQueen_1.unity
+    guid: 97e955aa806867a40a5c9f47c4809c69
+  - enabled: 1
+    path: Assets/scene/mini_game/HQueen/HQueen_2.unity
+    guid: eafe24814673bed4f8365fb815d3a0e5
+  - enabled: 1
+    path: Assets/scene/mini_game/HQueen/HQueen_3.unity
+    guid: 52ad51e64151b7a46872f82354333ff0
+  - enabled: 1
+    path: Assets/scene/Album.unity
+    guid: 1a1a79be69b09df41baaaf3d25d00e18
+  - enabled: 1
+    path: Assets/scene/omake/omake_main.unity
+    guid: 1450153e5a3be724bb15b60d94b652fa
+  - enabled: 1
+    path: Assets/scene/omake/hugi/omake_1.unity
+    guid: 80d767ee988b57947945f9e7e8855c0b
+  - enabled: 1
+    path: Assets/scene/omake/hugi/omake_2.unity
+    guid: 412890680d7cbbd44a0a5624593c93ff
+  - enabled: 1
+    path: Assets/scene/omake/hugi/omake_3.unity
+    guid: ad1228f5b4f77164b958da2e7ddf307f
+  - enabled: 1
+    path: Assets/scene/omake/hugi/omake_4.unity
+    guid: ed2503056a531b248ab3cd03698f1b40
+  - enabled: 1
+    path: Assets/scene/omake/hugi/omake_5.unity
+    guid: 32fb8a1388c4fe74caf049a3a12f5c22
+  - enabled: 1
+    path: Assets/scene/omake/hugi/omake_6.unity
+    guid: af5cfde9fda752a44aea7babda3ae2de
+  - enabled: 1
+    path: Assets/scene/omake/char/omake_7.unity
+    guid: 37fd97b9d3a6850479ee2dd3cb572f59
+  - enabled: 1
+    path: Assets/scene/omake/char/omake_8.unity
+    guid: 7166853cf48db234ba4e650857238c79
+  - enabled: 1
+    path: Assets/scene/omake/char/omake_9.unity
+    guid: f78e3af9afe98154c841327c46d3b56f
+  - enabled: 1
+    path: Assets/scene/omake/char/omake_10.unity
+    guid: ffa6e0ffe310755428d615ea444ae78c
+  - enabled: 1
+    path: Assets/scene/omake/char/omake_11.unity
+    guid: fe6370ec98675df46a4dfadf2c6cd2ae
+  - enabled: 1
+    path: Assets/scene/omake/char/omake_12.unity
+    guid: 3b92dab9ddd00874bb66eb28cb639b48
+  - enabled: 1
+    path: Assets/scene/omake/char/omake_13.unity
+    guid: 0378ccc802c0ef04893bd91c185617f8
+  - enabled: 1
+    path: Assets/scene/story/prologue_story.unity
+    guid: 8fa6cfeff3990ed49ba53f35b920a8bb
+  - enabled: 1
+    path: Assets/scene/story/clock rabbit_story.unity
+    guid: b4effe8e3a2ae6c408678c7b9ff53a3a
+  - enabled: 1
+    path: Assets/scene/story/worm story.unity
+    guid: 29862ad17c5d81541802a5c20b411a17
+  - enabled: 1
+    path: Assets/scene/story/cat story.unity
+    guid: 7b06963c576c2824f88f60fe144865a4
+  - enabled: 1
+    path: Assets/scene/story/hat story.unity
+    guid: 474dce70858c8c54fb2635e4839b71d1
+  - enabled: 1
+    path: Assets/scene/story/HQ story.unity
+    guid: 8e535ff1f6a13ec49989fda78f857aa6
+  m_configObjects: {}
